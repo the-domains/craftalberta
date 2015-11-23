@@ -2,13 +2,13 @@ name: craftalberta
 favicon: null
 layout_spectrum: 0.16665889346040785
 typography_spectrum: 0.78699
-title: Alberta Craft Beer Proponents
+title: Alberta Craft Beer Advocates
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-70558404-1
   facebook: null
   twitter: null
 opengraph:
