@@ -1,29 +1,41 @@
-name: craftalberta
-favicon: null
-layout_spectrum: 0.16665889346040785
-typography_spectrum: 0.78699
 title: Alberta Craft Beer Advocates
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-70558404-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.3779049846343696
+  brandStrength: 1
+  rhythmicContrast: 0.2232240776065737
   brandColors:
     - '#6e1e21'
     - '#ffffff'
     - '#fccc0a'
     - '#c77017'
     - '#e7c0b8'
-  brandStrength: 1
   lightness: 0.8498402987606823
-  saturation: 0.3779049846343696
-  rhythmicContrast: 0.2232240776065737
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-70558404-1
+  facebook: null
+name: craftalberta
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.78699
+layout_spectrum: 0.9551972
